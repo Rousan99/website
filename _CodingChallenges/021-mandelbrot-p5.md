@@ -42,5 +42,9 @@ contributions:
       name: "Juan Carlos Ponce Campuzano"
     url: "https://jcponce.github.io/complex/mandelbrotexplorer/"
     source: "https://github.com/jcponce/complex/tree/gh-pages/mandelbrotexplorer"
+  - title: "Zoomed Mandelbrotset with colour"
+    author:
+      name: "K.A.Rousan"
+    url: "https://editor.p5js.org/K.A.Rousan/full/3n_iNY2oK"
 ---
 In this coding challenge, I program from scratch the Mandelbrot set with p5.js
